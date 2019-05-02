@@ -1,0 +1,47 @@
+@media screen and (max-width:900px) {
+  main>p.title {
+    font-size: 1.3em !important
+  }
+
+  main>p.text {
+    font-size: .8em !important
+  }
+
+  main {
+    padding: 180px 5px !important
+  }
+}
+
+body, main {
+  background: #fff
+}
+
+header>nav>ul>li.left {
+  filter: grayscale(1) invert(1)
+}
+
+header>nav>ul>li>a {
+  color: black
+}
+
+header>nav>ul>li>a>span {
+  background: black
+}
+
+main {
+  padding: 100px 180px
+}
+
+main>p.title {
+  margin: 10px 0;
+  font-weight: 800;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, .65)
+}
+
+main>p.text {
+  line-height: 25px;
+  font-size: 1.15em;
+  color: rgba(0, 0, 0, .5)
+}

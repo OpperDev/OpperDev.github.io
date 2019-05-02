@@ -1,0 +1,204 @@
+@media screen and (max-width: 900px) {
+  main>div {
+    top: 330px !important
+  }
+}
+
+body, main {
+  background: #fff
+}
+
+header>nav>ul>li.left {
+  filter: grayscale(1) invert(1)
+}
+
+header>nav>ul>li>a {
+  color: black
+}
+
+header>nav>ul>li>a>span {
+  background: black
+}
+
+main>div {
+  position: relative;
+  top: 200px;
+  width: 100%
+}
+
+main>div>.abilities {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center
+}
+
+main>div>.abilities>span {
+  display: inline-block;
+  color: #52aae5;
+  margin: 20px
+}
+
+main>div>.abilities>span>p {
+  margin-top: 25px;
+  font-weight: 650
+}
+
+main>div>.abilities>span>i {
+  position: relative;
+  display: block;
+  border: solid 4px #3498db;
+  width: 80px;
+  height: 80px;
+  -webkit-transform: rotateZ(45deg);
+  transform: rotateZ(45deg);
+  cursor: pointer;
+  -webkit-transition: 2s all;
+  transition: 2s all;
+  background: #f0f7fb;
+  -webkit-box-shadow: inset 0 0 5px #3498db;
+  box-shadow: inset 0 0 5px #3498db
+}
+
+main>div>.abilities>span>i:hover {
+  -webkit-transform: rotate(765deg);
+  transform: rotate(765deg)
+}
+
+main>div>.abilities>span:nth-child(1)>i::before {
+  content: "\f050"
+}
+
+main>div>.abilities>span:nth-child(2)>i::before {
+  content: "\f5a2"
+}
+
+main>div>.abilities>span:nth-child(3)>i::before {
+  content: "\f5fc"
+}
+
+main>div>.abilities>span:nth-child(4)>i::before {
+  content: "\f1fc"
+}
+
+main>div>.abilities>span:nth-child(5)>i::before {
+  content: "\f3d1"
+}
+
+main>div>.abilities>span>i::before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%) rotateZ(-45deg);
+  transform: translate(-50%, -50%) rotateZ(-45deg);
+  font-size: 2em;
+  line-height: 0
+}
+
+main>div>.languages {
+  width: 100%;
+  text-align: center;
+  margin-top: 150px
+}
+
+main>div>.languages>a {
+  position: relative;
+  color: #399adb;
+  text-transform: uppercase;
+  padding: 16px
+}
+
+main>div>.languages>a::after, main>div>.languages>a::before, main>div>.languages>a>span::after, main>div>.languages>a>span::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  border: 2px solid;
+  -webkit-transition: all .6s ease;
+  transition: all .6s ease;
+  border-radius: 2px
+}
+
+main>div>.languages>a::after {
+  bottom: 0;
+  right: 0;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-bottom-color: #399adb;
+  border-right-color: #399adb
+}
+
+main>div>.languages>a::before {
+  top: 0;
+  left: 0;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: #399adb;
+  border-top-color: #399adb
+}
+
+main>div>.languages>a>span::after {
+  bottom: 0;
+  left: 0;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: #399adb;
+  border-left-color: #399adb
+}
+
+main>div>.languages>a>span::before {
+  top: 0;
+  right: 0;
+  border-left-color: transparent;
+  border-bottom-color: transparent;
+  border-top-color: #399adb;
+  border-right-color: #399adb
+}
+
+main>div>.languages>a:hover::after, main>div>.languages>a:hover::before, main>div>.languages>a:hover>span::after, main>div>.languages>a:hover>span::before {
+  width: 50%;
+  height: 50%
+}
+
+main>div>.languages>.categories {
+  width: 100%;
+  margin-top: 20px;
+  text-align: center
+}
+
+main>div>.languages>.categories>.language {
+  position: relative;
+  margin: 20px;
+  display: inline-block;
+  width: 300px;
+  text-align: center
+}
+
+main>div>.languages>.categories>.language>p.name {
+  font-size: 1.3em;
+  padding: 5px
+}
+
+main>div>.languages>.categories>.language>.progress-bar {
+  width: 95%
+}
+
+main>div>.languages>.categories>.language>.progress-bar, main>div>.languages>.categories>.language>.progress-bar>.bar, main>div>.languages>.categories>.language>.progress-bar>.bar>.progress {
+  display: block;
+  border-radius: 60px
+}
+
+main>div>.languages>.categories>.language>.progress-bar>p.progress-percent {
+  text-align: left;
+  font-size: 1.15em;
+  padding: 5px
+}
+
+main>div>.languages>.categories>.language>.progress-bar>.bar {
+  background: rgba(0, 0, 0, .075)
+}
+
+main>div>.languages>.categories>.language>.progress-bar>.bar>.progress {
+  color: #fff;
+  padding: 5px
+}

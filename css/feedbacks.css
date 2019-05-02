@@ -1,0 +1,53 @@
+body, main {
+  background: #fff
+}
+
+header>nav>ul>li.left {
+  filter: grayscale(1) invert(1)
+}
+
+header>nav>ul>li>a {
+  color: black
+}
+
+header>nav>ul>li>a>span {
+  background: black
+}
+
+main>.feedbacks {
+  position: absolute;
+  top: 190px;
+  width: 100%
+}
+
+main>.feedbacks>.feedback {
+  text-align: initial;
+  height: auto;
+  width: 100%;
+  background-color: #f0f7fb;
+  border-left: solid 4px #3498db;
+  padding: 15px
+}
+
+main>.feedbacks>.feedback>.infos {
+  margin-top: 15px;
+  display: inline-block
+}
+
+main>.feedbacks>.feedback>.infos>p.name {
+  font-weight: 700;
+  font-size: 1.2em;
+  color: #656
+}
+
+main>.feedbacks>.feedback>.infos>p.project {
+  color: #aaa;
+  font-weight: 500;
+  font-style: italic
+}
+
+main>.feedbacks>.feedback>img {
+  float: right;
+  margin-top: 15px;
+  border-radius: 5px
+}
