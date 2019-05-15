@@ -1,1 +1,45 @@
-{"feedbacks":[{"name":"Abussos","avatar":"https://cdn.discordapp.com/avatars/333519491176595456/b5702849d0c0d2b013b4e595b24c12b3.png?size=128","message":"Il y a plusieurs choses que j'ai apprécié dans le travail de Opper. Premièrement son efficacité, il respecte toujours les délais impartis. Ensuite ce que j'apprécie beaucoup chez lui, c'est la qualité du travail, j'ai eu plusieurs fois l'occasion de lui commander des services et je n'ai jamais eu de problème. Le dernier point très interessant chez Opper c'est le service après-vente, il reste toujours à l'écoute même après le paiement ce qui n'est pas anodin, car beaucoup de développeurs passent outre une fois le virement fait.","project":"Multiples projets"},{"name":"Ana A.","avatar":"https://cdn.discordapp.com/avatars/483378562938961950/86f9af112e906c7ae7178677c1ae02a7.png?size=128","message":"Passionné par la réalisation et le développement, il est tout naturellement tourné vers tous ce qui touche à l'informatique. Dynamique et jeune, avec un esprit d'équipe. Du savoir-faire en pratique, ainsi que des bonnes connaissances dans la programmation. Efficace, sociable, organisé, doté d'un esprit d'analyse et en soin d'assimiler les différents besoins. Très à l'aise dans son domaine, il pourrait développer des applications modernes et tendances ainsi qu'en assurer la maintenance.","project":"Multiples projets"},{"name":"Mathéo","avatar":"https://cdn.discordapp.com/avatars/208576073380659200/9d961cefadb1467728c2d88ce3e562dc.png?size=128","message":"Développeur complet et sérieux sur les différentes missions qu'il a pu accepter sur IdoTek.fr. De très bonne connaissances en juridition française. Il a réalisé avec rapidité les commandes de nos différents clients. Je recommande !","project":"Idotek"},{"name":"Peypo_FVS","avatar":"https://cdn.discordapp.com/avatars/233951126397911041/b18e723bfc98e396671419de3a071d3e.png?size=128","message":"OpperDev est un très bon développeur, il peut faire tout et n'importe quoi, tout ça avec de la qualité et rapidement, c'est une personne très sympatique. Je me permet de dire ça car j'ai travaillé sur un projet avec lui.","project":"Kodiac"},{"name":"Overflow","avatar":"https://cdn.discordapp.com/avatars/265161849815826434/095ab0400c3230efee1a2b419c0a60e1.png?size=128","message":"Professionnel et appliqué dans son travail et aime la perfection. Notre coopération sur hashbreaker à été un succès et c'est principalement grâce à lui, rien à redire.","project":"HashBreaker"},{"name":"Ir0nZ","avatar":"https://cdn.discordapp.com/avatars/320346344621473814/c56fbc44780c4a9dcebe6b50babf1e7c.png?size=128","message":"Personne sérieuse, bon travail, propre, sait détailler et expliquer. Il est très honnête surtout quand quelque chose ne lui plaît pas","project":"Kodiac"}]}
+{
+    "feedbacks": [{
+            "name": "Abussos",
+            "avatar": "https://cdn.discordapp.com/avatars/333519491176595456/b5702849d0c0d2b013b4e595b24c12b3.png?size=128",
+            "message": "Il y a plusieurs choses que j'ai apprécié dans le travail de Opper. Premièrement son efficacité, il respecte toujours les délais impartis. Ensuite ce que j'apprécie beaucoup chez lui, c'est la qualité du travail, j'ai eu plusieurs fois l'occasion de lui commander des services et je n'ai jamais eu de problème. Le dernier point très interessant chez Opper c'est le service après-vente, il reste toujours à l'écoute même après le paiement ce qui n'est pas anodin, car beaucoup de développeurs passent outre une fois le virement fait.",
+            "project": "Multiples projets"
+        },
+        {
+            "name": "Goldenstars",
+            "avatar": "https://cdn.discordapp.com/avatars/287328028756017163/c6a88ddf7ec116b22d31102e15651702.png?size=256",
+            "message": "Après lui avoir demandé un launcher son service était très rapide (on a juste eu un problème avec les textures qui ne suivait pas mais rien de grave). La qualité était très clairement au rendez-vous, avec aucun bug présent, c’est pour cela que j’ai même commandé la partie frontend de mon site. Le seul point négatif c’est que par manque de temps il ne pourra pas faire la partie backend. Je vous le conseille il est très pro avec une grande connaissance dans la plupart des langages de développement.",
+            "project": "Xellion"
+        },
+        {
+            "name": "Ana A.",
+            "avatar": "https://cdn.discordapp.com/avatars/483378562938961950/86f9af112e906c7ae7178677c1ae02a7.png?size=128",
+            "message": "Passionné par la réalisation et le développement, il est tout naturellement tourné vers tous ce qui touche à l'informatique. Dynamique et jeune, avec un esprit d'équipe. Du savoir-faire en pratique, ainsi que des bonnes connaissances dans la programmation. Efficace, sociable, organisé, doté d'un esprit d'analyse et en soin d'assimiler les différents besoins. Très à l'aise dans son domaine, il pourrait développer des applications modernes et tendances ainsi qu'en assurer la maintenance.",
+            "project": "Multiples projets"
+        },
+        {
+            "name": "Mathéo",
+            "avatar": "https://cdn.discordapp.com/avatars/208576073380659200/9d961cefadb1467728c2d88ce3e562dc.png?size=128",
+            "message": "Développeur complet et sérieux sur les différentes missions qu'il a pu accepter sur IdoTek.fr. De très bonne connaissances en juridition française. Il a réalisé avec rapidité les commandes de nos différents clients. Je recommande !",
+            "project": "Idotek"
+        },
+        {
+            "name": "Peypo_FVS",
+            "avatar": "https://cdn.discordapp.com/avatars/233951126397911041/b18e723bfc98e396671419de3a071d3e.png?size=128",
+            "message": "OpperDev est un très bon développeur, il peut faire tout et n'importe quoi, tout ça avec de la qualité et rapidement, c'est une personne très sympatique. Je me permet de dire ça car j'ai travaillé sur un projet avec lui.",
+            "project": "Kodiac"
+        },
+        {
+            "name": "Overflow",
+            "avatar": "https://cdn.discordapp.com/avatars/265161849815826434/095ab0400c3230efee1a2b419c0a60e1.png?size=128",
+            "message": "Professionnel et appliqué dans son travail et aime la perfection. Notre coopération sur hashbreaker à été un succès et c'est principalement grâce à lui, rien à redire.",
+            "project": "HashBreaker"
+        },
+        {
+            "name": "Ir0nZ",
+            "avatar": "https://cdn.discordapp.com/avatars/320346344621473814/c56fbc44780c4a9dcebe6b50babf1e7c.png?size=128",
+            "message": "Personne sérieuse, bon travail, propre, sait détailler et expliquer. Il est très honnête surtout quand quelque chose ne lui plaît pas",
+            "project": "Kodiac"
+        }
+    ]
+}
